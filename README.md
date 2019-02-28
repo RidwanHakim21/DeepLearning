@@ -1,5 +1,3 @@
 # DeepLearning
-ini adalah pembelajaran mendalam
+ini adalah pembelajaran mendalam saya tentang Github
 
-## Penambahan Sub
-Penambahan subbab
